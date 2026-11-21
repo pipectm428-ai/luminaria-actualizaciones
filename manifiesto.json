@@ -1,9 +1,9 @@
 {
-  "version": "5.0.1",
-  "url": "https://github.com/pipectm428-ai/luminaria-actualizaciones/releases/download/v5.0.1/luminaria-5.0.1.zip",
-  "sha256": "0c256dfc5465a46c01c75e29d1d3dfe11af7fcc03b98f9447fac422c0b9a6ebd",
-  "firma": "PJjP0iVh9LVjyz9loIpGIoSYuWCSCM2TNKkMP3wFeiE2p9Hq7ufBqxyT99+7gMO/lAsEUPgZ9KRTRs7cxBW+Aw==",
-  "notas": "## Novedades de Luminaria 5.0.1\n\n- **Verificación de la suscripción más frecuente**: Luminaria confirma tu suscripción cada media hora. Necesita internet: si el computador pasa más de 2 horas sin conexión, se pausa hasta que vuelva, y se desbloquea sola en unos minutos (o con «Volver a verificar»).\n- Mensajes más claros cuando falta internet.",
-  "publicada": "2026-11-21T17:56:28.000Z",
-  "tamano": 15923028
+  "version": "5.0.2",
+  "url": "https://github.com/pipectm428-ai/luminaria-actualizaciones/releases/download/v5.0.2/luminaria-5.0.2.zip",
+  "sha256": "7b02a6625afc0eb70be4f5fc31500ae0d5ff8110c62dcae5a550730835101c07",
+  "firma": "yf/puLyelbZN63pc82sfwYC6ymmk250P1ya5OSwg5/81DIPCh863ICdCJfpiJnQ2kkdA64FPyzRAzJRtSqQbDg==",
+  "notas": "Las actualizaciones llegan más rápido: Luminaria revisa si hay versión nueva cada 10 minutos (antes cada 6 horas).",
+  "publicada": "2026-11-21T21:33:48.495Z",
+  "tamano": 15923039
 }
