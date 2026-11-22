@@ -1,9 +1,9 @@
 {
-  "version": "5.0.2",
-  "url": "https://github.com/pipectm428-ai/luminaria-actualizaciones/releases/download/v5.0.2/luminaria-5.0.2.zip",
-  "sha256": "7b02a6625afc0eb70be4f5fc31500ae0d5ff8110c62dcae5a550730835101c07",
-  "firma": "yf/puLyelbZN63pc82sfwYC6ymmk250P1ya5OSwg5/81DIPCh863ICdCJfpiJnQ2kkdA64FPyzRAzJRtSqQbDg==",
-  "notas": "Las actualizaciones llegan más rápido: Luminaria revisa si hay versión nueva cada 10 minutos (antes cada 6 horas).",
-  "publicada": "2026-11-21T21:33:48.495Z",
-  "tamano": 15923039
+  "version": "5.0.3",
+  "url": "https://github.com/pipectm428-ai/luminaria-actualizaciones/releases/download/v5.0.3/luminaria-5.0.3.zip",
+  "sha256": "7b161e7af8b9534ca2431109f86f8450f46d4a4e542bcc329e900ef2ef3016e0",
+  "firma": "dBvc/oSGz7WwZr2JWCLrkJGDs+jukB+1p4C+azR48cz/2DDrvmZt2CNBYCq6gkxa6x/j+faP1IvAZnyfPK7KAQ==",
+  "notas": "## Novedades de Luminaria 5.0.3\n\n- **Luminaria activada con llave**: si tu proveedor activó tu equipo con llave, Luminaria funciona sin iniciar sesión en el motor. La llave llega sola por internet y nunca se muestra completa.",
+  "publicada": "2026-11-22T17:57:59.156Z",
+  "tamano": 15924168
 }
